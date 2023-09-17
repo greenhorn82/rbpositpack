@@ -12,6 +12,7 @@ Was ceated during PositConf 2023. Has no real value.
 Useful links:
 \itemize{
   \item \url{https://github.com/greenhorn82/rbpositpack}
+  \item \url{https://greenhorn82.github.io/rbpositpack/}
   \item Report bugs at \url{https://github.com/greenhorn82/rbpositpack/issues}
 }
 
