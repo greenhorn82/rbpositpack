@@ -12,3 +12,4 @@ use_r("lib-summary")
 
 #don't put here, führt zu Rekursion
 #load_all() (simulating a real package)
+use_github()
