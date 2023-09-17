@@ -3,7 +3,8 @@
 #' This functions generate a list of all installed packages, sorted by
 #' individual folder. The main target is to install.
 #'
-#' @param sizes logical indicating whether or not calculate the directory size
+#' @param sizes logical indicating whether or not calculate the directory size,
+#'  default false
 #'
 #' @return a `data.frame` containing two columns. One for the library and one
 #'    for the number of packages.
