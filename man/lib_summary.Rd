@@ -12,7 +12,7 @@ for the number of packages.
 }
 \description{
 This functions generate a list of all installed packages, sorted by
-individual folder. The main target is to install. $y_m$
+individual folder. The main target is to install.
 }
 \examples{
 lib_summary()
