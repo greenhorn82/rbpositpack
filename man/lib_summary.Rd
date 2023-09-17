@@ -4,7 +4,10 @@
 \alias{lib_summary}
 \title{Summary of installed functions}
 \usage{
-lib_summary()
+lib_summary(sizes = FALSE)
+}
+\arguments{
+\item{sizes}{logical indicating whether or not calculate the directory size}
 }
 \value{
 a \code{data.frame} containing two columns. One for the library and one
